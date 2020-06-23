@@ -47,3 +47,16 @@ Inherit.java:32: error: class, interface, or enum expected
 }
 ^
 4 errors
+
+
+//After commenting c.input() 
+
+Output:
+javac Inherit.java
+
+java Inherit
+
+enter the value of l and h
+3
+4
+public function
