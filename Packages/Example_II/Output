@@ -1,0 +1,9 @@
+javac -d . Account.java
+
+javac -d . Test5.java
+
+java Test5
+
+Enter amount to pay
+1000
+180.0
