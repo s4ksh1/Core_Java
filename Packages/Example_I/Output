@@ -1,0 +1,7 @@
+>javac -d . P1.java      //compiling new package
+
+>javac -d . Pack1.java     //compiling class
+
+>java Pack1        //running the class
+
+This is class P1      //Output
